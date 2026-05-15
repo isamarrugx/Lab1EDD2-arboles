@@ -1,0 +1,27 @@
+Detective: isabel
+Responsable: Nodo coordinador: Cuenta B Mismo patrón Misma red
+Casos integrados: 4
+Gravedad acumulada: 282
+
+Delitos y cierre jurídico:
+1. Injuria | gravedad 57
+Ley: Art. 220 Código Penal Colombiano
+Pena: Multa o sanción por afectar el buen nombre
+Evidencia: RESULTADO PARCIAL. La clasificación esperada era Injuria | - Mensaje: Pásame el taller cuando puedas. | - Clasificaci...
+
+2. Calumnia | gravedad 76
+Ley: Art. 221 Código Penal Colombiano
+Pena: Sanción por imputación falsa de hecho punible
+Evidencia: EVIDENCIA CORRECTA Y CLASIFICACIÓN CORRECTA | - Publicación: Publicación D: Dicen que la expulsarán por fraude. | - C...
+
+3. Suplantación | gravedad 63
+Ley: Ley 1273 de 2009
+Pena: Sanciones por delito informático y suplantación
+Evidencia: RESULTADO PARCIAL | - Evidencias: Foto de perfil idéntica a la de Valeria ; Tema visual distinto pero sin datos compr...
+
+4. Hostigamiento digital | gravedad 86
+Ley: Hostigamiento reiterado + evidencia digital
+Pena: Sanciones agravadas por coordinación, amenazas y repetición
+Evidencia: RESULTADO PARCIAL | - Cuentas: Cuenta A Misma frase ofensiva Misma hora ; Cuenta B Mismo patrón Misma red | - Clasifi...
+
+Conclusión: el árbol AVL demuestra la escalada del acoso. El recorrido inorden reconstruye la progresión de menor a mayor gravedad.
