@@ -1,0 +1,12 @@
+Detective: Isa
+Responsable: Pendiente de correlación de cuentas
+Casos integrados: 1
+Gravedad acumulada: 66
+
+Delitos y cierre jurídico:
+1. Injuria | gravedad 66
+Ley: Art. 220 Código Penal Colombiano
+Pena: Multa o sanción por afectar el buen nombre
+Evidencia: EVIDENCIA CORRECTA Y CLASIFICACIÓN CORRECTA | - Mensaje: Nadie te soporta aquí. | - Clasificación: Injuria | - Explic...
+
+Conclusión: el árbol AVL demuestra la escalada del acoso. El recorrido inorden reconstruye la progresión de menor a mayor gravedad.
